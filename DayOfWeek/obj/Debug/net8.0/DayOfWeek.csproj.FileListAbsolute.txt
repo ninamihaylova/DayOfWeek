@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\bin\Debug\net8.0\DayOfWeek.exe
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\bin\Debug\net8.0\DayOfWeek.deps.json
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\bin\Debug\net8.0\DayOfWeek.runtimeconfig.json
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\bin\Debug\net8.0\DayOfWeek.dll
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\bin\Debug\net8.0\DayOfWeek.pdb
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\obj\Debug\net8.0\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\obj\Debug\net8.0\DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\obj\Debug\net8.0\DayOfWeek.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\obj\Debug\net8.0\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\obj\Debug\net8.0\DayOfWeek.dll
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\obj\Debug\net8.0\refint\DayOfWeek.dll
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\obj\Debug\net8.0\DayOfWeek.pdb
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\obj\Debug\net8.0\DayOfWeek.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\DayOfWeek\DayOfWeek\obj\Debug\net8.0\ref\DayOfWeek.dll
